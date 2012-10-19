@@ -1,4 +1,8 @@
-profile
+Profile 
 =======
 
-profile with html5 and css3
+Profile with html5 , css3 and javascript
+
+demo in http://netindo.us/profile
+
+
